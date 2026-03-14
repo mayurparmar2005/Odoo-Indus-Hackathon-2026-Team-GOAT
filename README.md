@@ -23,3 +23,7 @@ Yagnesh Akbari
 1. Clone the repo.
 2. Install requirements: `pip install -r requirements.txt`
 3. Run the app: `python app.py`
+
+# 📺 Project Demo Video
+click this link:
+https://drive.google.com/file/d/12GIFn_EFU9n3dloHVuMfen_oK07_pITp/view?usp=sharing
